@@ -17,7 +17,7 @@ Jeweler::Tasks.new do |gem|
   gem.name = "expected_responses"
   gem.homepage = "http://github.com/sebastienluquet/expected_responses"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
+  gem.summary = %Q{Serialize request response}
   gem.description = %Q{Serialize request response}
   gem.email = "sebastien_luquet@hotmail.com"
   gem.authors = ["Sébastien Luquet"]
