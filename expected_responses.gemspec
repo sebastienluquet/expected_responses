@@ -25,6 +25,8 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "expected_responses.gemspec",
+    "lib/expectation_serializer.rb",
+    "lib/expected_mail.rb",
     "lib/expected_responses.rb",
     "test/helper.rb",
     "test/test_expected_responses.rb"
