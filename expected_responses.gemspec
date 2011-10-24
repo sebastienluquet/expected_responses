@@ -33,7 +33,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.5.2}
-  s.summary = %q{TODO: one-line summary of your gem}
+  s.summary = %q{Serialize request response}
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
