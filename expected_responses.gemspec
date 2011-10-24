@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "expected_responses.gemspec",
     "lib/expected_responses.rb",
     "test/helper.rb",
     "test/test_expected_responses.rb"
